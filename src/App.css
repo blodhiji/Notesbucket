@@ -1,38 +1,128 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.bgg {
   color: white;
+  background-color: #262323;
+  height: 300px;
+  margin-top: -50px;
 }
 
-.App-link {
-  color: #61dafb;
+.cd {
+  margin: 3% 34%;
+  position: absolute;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.contant {
+  max-width: 64rem;
+  padding: 2rem 6rem;
+  margin: 0 auto;
+  font-size: 1.1rem;
+}
+
+.aa {
+  font-size: 63px;
+}
+
+.para p {
+  max-width: 100%;
+  font-size: 15px;
+  margin: 1% 28%;
+}
+
+.contant {
+  margin-top: 58px;
+  max-width: 64rem;
+  padding: 2rem 6rem;
+  margin: 0px auto;
+  font-size: 1.1rem;
+  word-wrap: break-word;
+}
+
+.contant p {
+  font-size: 15px;
+  margin-bottom: 0.1em;
+  line-height: 1.7;
+  margin-bottom: 57px;
+}
+
+footer {
+  padding: 1.6rem 0;
+  /* margin-top: -1px; */
+  text-align: center;
+  background: #111;
+  color: #a6a6a6;
+}
+
+footer a {
+  text-decoration: none;
+  display: block;
+  color: #fff;
+  line-height: 2;
+}
+
+/* .btn-primary{
+  --bs-btn-bg: #c61d25;
+} */
+.center {
+  color: white;
+  margin: 12px auto;
+  width: 50%;
+  border: 3px solid #798f78;
+  padding: 34px;
+  border-radius: 49px;
+}
+
+.bb {
+  padding: 3% 0px;
+  width: 100%;
+  /* height: 622px; */
+  background-color: #111;
+  margin-top: -50px;
+}
+
+.bb input {
+  color: white;
+  border: 2px solid #798f78;
+  background-color: #111;
+  border-radius: 12px;
+}
+
+.ce {
+  margin-left: 60%;
+}
+
+.btnn {
+  padding: 1% 2%;
+  border: 2px solid green;
+  border-radius: 10px;
+  color: white;
+  background-color: #111;
+}
+
+.btnn:hover {
+  background-color: #53aa5f;
+}
+
+hr {
+  color: #53aa5f;
+}
+
+.bg-body-tertiary1 {
+  --bs-bg-opacity: 1;
+  background-color: rgba((38, 35, 35), var(--bs-bg-opacity)) !important;
+}
+
+.hov {
+  color: #f7fbf7;
+}
+
+.hov:hover {
+  color: #87dd92;
+}
+
+.addstyle {
+  width: 80%;
+    margin: 10px auto;
+    border: 2px solid rgb(82, 255, 0);
+    border-radius: 15px;
+    margin-top: -23px;
+    padding-top: 1%;
 }
