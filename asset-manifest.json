@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Notesbucket/static/css/main.8f621bd2.css",
+    "main.js": "/Notesbucket/static/js/main.bd02826b.js",
+    "static/js/787.57834444.chunk.js": "/Notesbucket/static/js/787.57834444.chunk.js",
+    "index.html": "/Notesbucket/index.html",
+    "main.8f621bd2.css.map": "/Notesbucket/static/css/main.8f621bd2.css.map",
+    "main.bd02826b.js.map": "/Notesbucket/static/js/main.bd02826b.js.map",
+    "787.57834444.chunk.js.map": "/Notesbucket/static/js/787.57834444.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f621bd2.css",
+    "static/js/main.bd02826b.js"
+  ]
+}
